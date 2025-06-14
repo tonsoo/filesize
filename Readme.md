@@ -1,8 +1,8 @@
 # 📦 FileSize — Human-friendly file size handling for PHP
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/l1nnah/filesize.svg)](https://packagist.org/packages/l1nnah/file-size)
-[![Tests](https://img.shields.io/github/actions/workflow/status/l1nnah/filesize/run-tests.yml?branch=main)](https://github.com/tonsoo/filesize/actions)
-[![License](https://img.shields.io/github/license/l1nnah/filesize.svg)](https://github.com/tonsoo/filesize/blob/main/LICENSE)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/l1nnah/file-size.svg)](https://packagist.org/packages/l1nnah/file-size)
+[![Tests](https://img.shields.io/github/actions/workflow/status/tonsoo/filesize/run-tests.yml?branch=main)](https://github.com/tonsoo/filesize/actions)
+[![License](https://img.shields.io/github/license/tonsoo/filesize.svg)](https://github.com/tonsoo/filesize/blob/main/LICENSE)
 
 A lightweight and extensible PHP library to parse, format, and convert file sizes in a human-readable and localized way.
 
