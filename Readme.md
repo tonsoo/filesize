@@ -1,6 +1,6 @@
 # 📦 FileSize — Human-friendly file size handling for PHP
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/l1nnah/filesize.svg)](https://packagist.org/packages/tonsoo/filesize)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/l1nnah/filesize.svg)](https://packagist.org/packages/l1nnah/file-size)
 [![Tests](https://img.shields.io/github/actions/workflow/status/l1nnah/filesize/run-tests.yml?branch=main)](https://github.com/tonsoo/filesize/actions)
 [![License](https://img.shields.io/github/license/l1nnah/filesize.svg)](https://github.com/tonsoo/filesize/blob/main/LICENSE)
 
